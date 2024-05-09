@@ -1,1 +1,1 @@
-(Almost) single-file implementations of common reinforcement learning algorithms 
+(Almost) single-file implementations of common reinforcement learning algorithms. Most of these algorithms are first implemented in Pytorch, then converted to Jax to leverage the power of JIT. With Jax, the training time is much faster. 
